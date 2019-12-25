@@ -8,7 +8,6 @@ This app has one text field, one lable, and three buttons. The first button, "Ch
 The second changes the background to blue, and the last one chage the text to the text inputed by the user in the text field. Lastly, tapping 
 the background resets everything. 
 
-<img src="https://giphy.com/gifs/f9qE4E0MG6ONAVGTeC/html5"><br>
 <a href="https://imgflip.com/gif/3kfkfh"><img src="https://i.imgflip.com/3kfkfh.gif" title="made at imgflip.com"/></a>
 
 ### Required User Stories
