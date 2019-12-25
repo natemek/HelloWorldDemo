@@ -9,6 +9,7 @@ The second changes the background to blue, and the last one chage the text to th
 the background resets everything. 
 
 <img src="https://giphy.com/gifs/f9qE4E0MG6ONAVGTeC/html5"><br>
+<a href="https://imgflip.com/gif/3kfkfh"><img src="https://i.imgflip.com/3kfkfh.gif" title="made at imgflip.com"/></a>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
