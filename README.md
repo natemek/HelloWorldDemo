@@ -8,7 +8,7 @@ This app has one text field, one lable, and three buttons. The first button, "Ch
 The second changes the background to blue, and the last one chage the text to the text inputed by the user in the text field. Lastly, tapping 
 the background resets everything. 
 
-<img src="https://imgflip.com/gif/3kfimy" width=200><br>
+<img src="https://gph.is/g/4LgAwkr" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
